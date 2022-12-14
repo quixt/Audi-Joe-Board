@@ -1,0 +1,3 @@
+Download VB Cable audio driver.
+Put this somewhere and run the exe
+wining
